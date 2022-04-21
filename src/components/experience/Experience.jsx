@@ -123,7 +123,7 @@ const Experience = () => {
               <BsFileEarmarkCheckFill className="experience__details-icons" />
 
               <div>
-              <h4>MongoDB</h4>
+              <h4>SQLlite</h4>
               <small className = "text-light">Basic</small>
               </div>
             </article>
@@ -131,7 +131,15 @@ const Experience = () => {
               <BsFileEarmarkCheckFill className="experience__details-icons" />
               <div>
               <h4>Python</h4>
-              <small className = "text-light">Basic</small>
+              <small className = "text-light">Intermediate</small>
+              </div>
+              
+            </article>
+            <article className = "experience__details" >
+              <BsFileEarmarkCheckFill className="experience__details-icons" />
+              <div>
+              <h4>Golang</h4>
+              <small className = "text-light">Intermediate</small>
               </div>
               
             </article>

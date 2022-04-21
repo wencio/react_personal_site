@@ -36,7 +36,7 @@ const About = () => {
                  <small>80+ Completed </small>
               </article>
           </div>
-          <p> 25+ years of experience divided between: 2 years as software/blockchain developer, 3 years as crypto investor and 20 years in business development in the areas of: Fintech, Real State and Finance.</p>
+          <p> 25+ years of experience divided between: 2 years as software/blockchain developer, 5 years working with Cryptos/Blockchain and 20 years in business development in the areas of: Fintech, Real State and Finance.</p>
           <a href='#contact' className = 'btn btn-primary'>Let's Talk</a>
         </div>
 
