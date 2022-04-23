@@ -32,8 +32,8 @@ const data =[
   {
     id:4,
     image: IMG4,
-    title:"WencioNewToken",
-    github:'https://github.com/wencio/wencionewtoken',
+    title:"CryptoBot",
+    github:'https://github.com/wencio/python_fear_and_greed_binance_bot',
     demo:""
   },
 

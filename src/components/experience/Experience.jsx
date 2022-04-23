@@ -123,7 +123,7 @@ const Experience = () => {
               <BsFileEarmarkCheckFill className="experience__details-icons" />
 
               <div>
-              <h4>SQLlite</h4>
+              <h4>SQLite</h4>
               <small className = "text-light">Basic</small>
               </div>
             </article>
