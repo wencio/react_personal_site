@@ -88,7 +88,7 @@ const Experience = () => {
               <BsFileEarmarkCheckFill className="experience__details-icons" />
               <div>
               <h4>BlockChain </h4>
-              <small className = "text-light">Intermediate</small>
+              <small className = "text-light">Advanced</small>
 
               </div>
              
@@ -131,7 +131,7 @@ const Experience = () => {
               <BsFileEarmarkCheckFill className="experience__details-icons" />
               <div>
               <h4>Python</h4>
-              <small className = "text-light">Intermediate</small>
+              <small className = "text-light">Advanced</small>
               </div>
               
             </article>
