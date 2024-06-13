@@ -33,10 +33,10 @@ const About = () => {
                <article className ='about__card'>
                  <VscFolderLibrary className = 'about__icon'/>
                  <h5>Projects</h5>
-                 <small>80+ Completed </small>
+                 <small>50+ Completed </small>
               </article>
           </div>
-          <p> 30+ years of experience divided between: 10 years as software/blockchain developer, 6 years working with Cryptos/Blockchain and 20 years in business development in the areas of: Fintech, Real State and Finance.</p>
+          <p> I am a strategic and seasoned Senior Technical Consultant and Software/Blockchain/Solidity Developer with a strong background in software engineering. My expertise lies in developing advanced technological solutions, particularly in JavaScript, Python, and Solidity. I specialize in quant projects in Python, smart contract development, and decentralized applications (dApps). I am actively seeking opportunities that challenge my skills and allow me to contribute to the development of future-emerging technologies. Recently, I've expanded my knowledge into data engineering and AI, to enhance the management and analysis of large datasets in technological projects.</p>
           <a href='#contact' className = 'btn btn-primary'>Let's Talk</a>
         </div>
 
