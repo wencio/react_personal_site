@@ -50,7 +50,15 @@ const data =[
     title:"Cotizador Criptomonedas",
     github:'https://github.com/wencio/cotizador_criptomonedas',
     demo:"https://cotizador-criptomonedas-zeta.vercel.app/"
+  },
+   {
+    id:6,
+    image: IMG6,
+    title:"Cotizador Criptomonedas",
+    github:'https://github.com/wencio/cotizador_criptomonedas',
+    demo:"https://cotizador-criptomonedas-zeta.vercel.app/"
   }
+
 
 
 ]
