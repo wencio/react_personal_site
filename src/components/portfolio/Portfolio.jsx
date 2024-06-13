@@ -64,7 +64,7 @@ const data =[
     id:8,
     image: IMG8,
     title:"Machine Learning Pyspark",
-    github:'https://github.com/wencio/ml_pyspark_project
+    github:'https://github.com/wencio/ml_pyspark_project,
     demo:"https://github.com/wencio/ml_pyspark_project"
   }
 
