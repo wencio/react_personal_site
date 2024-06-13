@@ -54,9 +54,9 @@ const data =[
    {
     id:6,
     image: IMG6,
-    title:"Cotizador Criptomonedas",
-    github:'https://github.com/wencio/cotizador_criptomonedas',
-    demo:"https://cotizador-criptomonedas-zeta.vercel.app/"
+    title:"TensorFlow Image Classification",
+    github:'https://github.com/wencio/tensorflow_image_classification_CIFAR-10',
+    demo:"https://github.com/wencio/tensorflow_image_classification_CIFAR-10"
   }
 
 
