@@ -6,6 +6,7 @@ import IMG3 from '../../assets/IMG3.jpg'
 import IMG4 from '../../assets/IMG4.jpg'
 import IMG5 from '../../assets/IMG5.jpg'
 import IMG6 from '../../assets/IMG6.jpg'
+import IMG7 from '../../assets/IMG7.png'
 
 const data =[
   {
@@ -53,7 +54,7 @@ const data =[
   },
    {
     id:6,
-    image: IMG6,
+    image: IMG7,
     title:"TensorFlow Image Classification",
     github:'https://github.com/wencio/tensorflow_image_classification_CIFAR-10',
     demo:"https://github.com/wencio/tensorflow_image_classification_CIFAR-10"
