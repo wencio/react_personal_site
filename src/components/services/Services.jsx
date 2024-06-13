@@ -10,7 +10,7 @@ const Services = () => {
       <div className="container services__container">
       <article className="service">
         <div className="service__head">
-          <h3>Web Development</h3>
+          <h3>Software Development</h3>
         </div>
         <ul className='service__list'>
           <li>
@@ -19,15 +19,15 @@ const Services = () => {
           </li>
           <li>
             <BsCheckLg className = "service__list-icon"/>
-            <p>Desktop application development</p>
+            <p>Python development</p>
           </li>
           <li>
             <BsCheckLg className = "service__list-icon"/>
-            <p>Web Sites</p>
+            <p>Machine Learning/Deep Learning</p>
           </li>
           <li>
             <BsCheckLg className = "service__list-icon"/>
-            <p>Online Stores </p>
+            <p>Data Engineer</p>
           </li>
           
 
