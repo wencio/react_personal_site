@@ -105,7 +105,7 @@ const Experience = () => {
             <article className = "experience__details" >
               <BsFileEarmarkCheckFill className="experience__details-icons" />
               <div>
-              <h4>Brownie</h4>
+              <h4>Scikit-learn</h4>
               <small className = "text-light">Basic</small>
 
               </div>
@@ -114,7 +114,7 @@ const Experience = () => {
             <article className = "experience__details" >
               <BsFileEarmarkCheckFill className="experience__details-icons" />
               <div>
-              <h4>HardHat</h4>
+              <h4>Keras</h4>
               <small className = "text-light">Intermediate</small>
                 </div>
               
