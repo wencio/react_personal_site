@@ -7,6 +7,7 @@ import IMG4 from '../../assets/IMG4.jpg'
 import IMG5 from '../../assets/IMG5.jpg'
 import IMG6 from '../../assets/IMG6.jpg'
 import IMG7 from '../../assets/IMG7.png'
+import IMG8 from '../../assets/IMG8.png'
 
 const data =[
   {
@@ -53,11 +54,18 @@ const data =[
     demo:"https://cotizador-criptomonedas-zeta.vercel.app/"
   },
    {
-    id:6,
+    id:7,
     image: IMG7,
     title:"TensorFlow Image Classification",
     github:'https://github.com/wencio/tensorflow_image_classification_CIFAR-10',
     demo:"https://github.com/wencio/tensorflow_image_classification_CIFAR-10"
+  },
+   {
+    id:8,
+    image: IMG8,
+    title:"Machine Learning Pyspark",
+    github:'https://github.com/wencio/ml_pyspark_project
+    demo:"https://github.com/wencio/ml_pyspark_project"
   }
 
 
