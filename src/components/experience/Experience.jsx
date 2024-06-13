@@ -45,7 +45,7 @@ const Experience = () => {
             <article className = "experience__details" >
               <BsFileEarmarkCheckFill className="experience__details-icons" />
               <div>
-              <h4>TailWind</h4>
+              <h4>TensorFlow</h4>
               <small className = "text-light">Basic</small>
 
               </div>
