@@ -66,6 +66,13 @@ const data =[
     title:"Machine Learning Pyspark",
     github:'https://github.com/wencio/ml_pyspark_project',
     demo:"https://github.com/wencio/ml_pyspark_project"
+  },
+   {
+    id:9,
+    image: IMG8,
+    title:"Tensorflow/Dask/MongoDB Portfolio Price Predictions",
+    github:'https://github.com/wencio/ANN_Portfolio_price_prediction',
+    demo:"https://github.com/wencio/ANN_Portfolio_price_prediction"
   }
 
 
