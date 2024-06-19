@@ -8,7 +8,7 @@ import IMG5 from '../../assets/IMG5.jpg'
 import IMG6 from '../../assets/IMG6.jpg'
 import IMG7 from '../../assets/IMG7.png'
 import IMG8 from '../../assets/IMG8.jpg'
-import IMG9 from '../../assets/IMG9.jpg'
+import IMG9 from '../../assets/IMG9.jpeg'
 
 const data =[
   {
