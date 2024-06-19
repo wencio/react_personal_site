@@ -8,6 +8,7 @@ import IMG5 from '../../assets/IMG5.jpg'
 import IMG6 from '../../assets/IMG6.jpg'
 import IMG7 from '../../assets/IMG7.png'
 import IMG8 from '../../assets/IMG8.jpg'
+import IMG9 from '../../assets/IMG9.jpg'
 
 const data =[
   {
@@ -69,7 +70,7 @@ const data =[
   },
    {
     id:9,
-    image: IMG8,
+    image: IMG9,
     title:"Tensorflow/Dask/MongoDB Portfolio Price Predictions",
     github:'https://github.com/wencio/ANN_Portfolio_price_prediction',
     demo:"https://github.com/wencio/ANN_Portfolio_price_prediction"
