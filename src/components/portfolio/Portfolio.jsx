@@ -9,6 +9,7 @@ import IMG6 from '../../assets/IMG6.jpg'
 import IMG7 from '../../assets/IMG7.png'
 import IMG8 from '../../assets/IMG8.jpg'
 import IMG9 from '../../assets/IMG9.jpeg'
+import IMG10 from '../../assets/IMG10.jpeg'
 
 const data =[
   {
@@ -77,7 +78,7 @@ const data =[
   },
     {
     id:10,
-    image: IMG9,
+    image: IMG10,
     title:"ETL and Data Visualization with Airflow, D3.js, JavaScript, and Python",
     github:'https://github.com/wencio/sensemaking_data_pipeline_airflow',
     demo:"https://github.com/wencio/sensemaking_data_pipeline_airflow/blob/main/d3_bubble_chart_example.html"
