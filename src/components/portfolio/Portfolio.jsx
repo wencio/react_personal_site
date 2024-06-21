@@ -74,7 +74,15 @@ const data =[
     title:"Tensorflow/Dask/MongoDB Portfolio Price Predictions",
     github:'https://github.com/wencio/ANN_Portfolio_price_prediction',
     demo:"https://github.com/wencio/ANN_Portfolio_price_prediction"
+  },
+    {
+    id:10,
+    image: IMG9,
+    title:"ETL and Data Visualization with Airflow, D3.js, JavaScript, and Python",
+    github:'https://github.com/wencio/sensemaking_data_pipeline_airflow',
+    demo:"https://github.com/wencio/sensemaking_data_pipeline_airflow/blob/main/d3_bubble_chart_example.html"
   }
+
 
 
 
