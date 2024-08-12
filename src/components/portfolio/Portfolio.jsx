@@ -10,6 +10,7 @@ import IMG7 from '../../assets/IMG7.png'
 import IMG8 from '../../assets/IMG8.jpg'
 import IMG9 from '../../assets/IMG9.jpeg'
 import IMG10 from '../../assets/IMG10.jpg'
+import IMG11 from '../../assets/IMG11.jpg'
 
 const data =[
   {
@@ -85,7 +86,7 @@ const data =[
   },
      {
     id:10,
-    image: IMG10,
+    image: IMG11,
     title:"DAO Implementation",
     github:'https://github.com/wencio/dao_example_solidity',
     demo:"https://github.com/wencio/dao_example_solidity"
