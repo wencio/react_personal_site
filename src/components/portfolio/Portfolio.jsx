@@ -82,6 +82,13 @@ const data =[
     title:"ETL and Data Visualization with Airflow, D3.js, JavaScript, and Python",
     github:'https://github.com/wencio/sensemaking_data_pipeline_airflow',
     demo:"https://github.com/wencio/sensemaking_data_pipeline_airflow/blob/main/d3_bubble_chart_example.html"
+  },
+     {
+    id:10,
+    image: IMG10,
+    title:"DAO Implementation",
+    github:'https://github.com/wencio/dao_example_solidity',
+    demo:"https://github.com/wencio/dao_example_solidity"
   }
 
 
