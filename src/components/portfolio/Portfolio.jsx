@@ -11,6 +11,7 @@ import IMG8 from '../../assets/IMG8.jpg'
 import IMG9 from '../../assets/IMG9.jpeg'
 import IMG10 from '../../assets/IMG10.jpg'
 import IMG11 from '../../assets/IMG11.jpg'
+import IMG12 from '../../assets/IMG12.jpg'
 
 const data =[
   {
@@ -85,11 +86,18 @@ const data =[
     demo:"https://github.com/wencio/sensemaking_data_pipeline_airflow/blob/main/d3_bubble_chart_example.html"
   },
      {
-    id:10,
+    id:11,
     image: IMG11,
     title:"DAO Implementation",
     github:'https://github.com/wencio/dao_example_solidity',
     demo:"https://github.com/wencio/dao_example_solidity"
+  },
+     {
+    id:12,
+    image: IMG12,
+    title:"Flashloan Implementation",
+    github:'https://github.com/wencio/flasloans_solidity',
+    demo:"https://github.com/wencio/flasloans_solidity"
   }
 
 
