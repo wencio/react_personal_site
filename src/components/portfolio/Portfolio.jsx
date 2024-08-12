@@ -96,8 +96,8 @@ const data =[
     id:12,
     image: IMG12,
     title:"Flashloan Implementation",
-    github:'https://github.com/wencio/flasloans_solidity',
-    demo:"https://github.com/wencio/flasloans_solidity"
+    github:'https://github.com/wencio/flashloans_solidity',
+    demo:"https://github.com/wencio/flashloans_solidity"
   }
 
 
